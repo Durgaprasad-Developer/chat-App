@@ -198,7 +198,7 @@ function App() {
               placeholder="Type a message..."
               className="p-2 w-full bg-[#00000040] rounded-lg"
             />
-            <button className="mt-4 sm:mt-0 sm:ml-8 text-white max-h-12">
+            <button className="mt-4 sm:mt-0 sm:ml-8 text-white max-h-12 bg-gray-800 p-2 rounded-md hover:bg-gray-700 sm:bg-transparent sm:hover:bg-gray-700">
               send
             </button>
             <span ref={scroll}></span>
