@@ -1,13 +1,35 @@
-# React + Vite
+# Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Chat App is a lightweight, real-time messaging platform with Google Authentication powered by Supabase. It allows users to sign in using their Google account and chat instantly. All chats are temporary and not stored, ensuring privacy and simplicity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 🔐 Google Sign-In using Supabase Auth  
+- 💬 Real-time temporary chat system  
+- 👥 Displays number of users online  
+- 🧑 View user's profile  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# chat-App
+## Tech Stack
+
+- **Frontend**: React, CSS, Tailwind CSS  
+- **Backend/Auth**: Supabase (including real-time database & Google Auth)
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Durgaprasad-Developer/chat-App.git
+
+cd chat-app
+```
+
+![Screenshot from 2025-05-06 10-27-16](https://github.com/user-attachments/assets/a695996b-61ee-455a-8bdf-8616585e4579)
+
+![Screenshot from 2025-05-06 10-27-23](https://github.com/user-attachments/assets/03c118be-5cfd-4c73-9f7d-d339f84d42e2)
+
+![Screenshot from 2025-05-06 10-27-55](https://github.com/user-attachments/assets/3a5be2c6-be19-41d3-b693-17b8b23f042f)
+
+
