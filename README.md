@@ -30,6 +30,6 @@ cd chat-app
 
 ![Screenshot from 2025-05-06 10-27-23](https://github.com/user-attachments/assets/03c118be-5cfd-4c73-9f7d-d339f84d42e2)
 
-![Screenshot from 2025-05-06 10-27-55](https://github.com/user-attachments/assets/3a5be2c6-be19-41d3-b693-17b8b23f042f)
+![Screenshot from 2025-05-06 10-27-55](https://github.com/user-attachments/assets/3a5be2c6-be19-41d3-b693-17b8b23f042f) 
 
 
